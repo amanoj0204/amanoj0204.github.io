@@ -2,8 +2,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## This is my story!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-This is me testing my blog!!
+Welcome to my blog for Assignment 2 for ELEC 4630. At the moment, I am doing assignment 2 and
+it's taking up a lot of time but I am throughly enjoying it so thats always a good thing.
