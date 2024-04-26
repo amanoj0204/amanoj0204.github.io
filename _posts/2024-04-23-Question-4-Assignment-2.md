@@ -7,3 +7,8 @@ which was explained in my final report. Here is my confusion matrix:
 
 
 ![Confusion Matrix](../images/Confusionmatrix.png)
+
+
+and my t-SNE scatter plot:
+
+![Confusion Matrix](../images/t-SNE.png)
