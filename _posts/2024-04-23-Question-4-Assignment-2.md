@@ -10,9 +10,10 @@ However, perfomance metrics where used to see how well the model performed as sh
 Here is my confusion matrix: 
 
 
-![Confusion Matrix](../images/Confusionmatrix.png)
+![Confusionmatrix](https://github.com/amanoj0204/amanoj0204.github.io/assets/161025128/25b20051-9b7f-4558-a51b-e14f05657fcd)
 
 
 and my t-SNE scatter plot:
 
-![t-SNE](../images/t-SNE.png)
+
+![t-SNE](https://github.com/amanoj0204/amanoj0204.github.io/assets/161025128/f5ec0ff6-0830-403d-ba8b-af385e6ce49c)
