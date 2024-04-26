@@ -15,4 +15,4 @@ Here is my confusion matrix:
 
 and my t-SNE scatter plot:
 
-![Confusion Matrix](../images/t-SNE.png)
+![t-SNE](../images/t-SNE.png)
