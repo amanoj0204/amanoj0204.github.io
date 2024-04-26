@@ -11,3 +11,6 @@ And it was a big shock when I got my marks back and I'll be honest when I say th
 Not to worry , because here we are at the start of Assignment 2. Things can only get better right.....?
 
 Lets find out.
+
+
+![positivity](https://github.com/amanoj0204/amanoj0204.github.io/assets/161025128/a4bafded-d168-42e1-8ee8-72c44b33d2b1)
